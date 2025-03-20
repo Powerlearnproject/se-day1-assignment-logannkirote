@@ -69,6 +69,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. 
 It helps improve the interaction between humans and AI.
 
@@ -77,3 +78,19 @@ It helps improve the interaction between humans and AI.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague Prompt:
+
+"Write about environmental issues."
+
+Improved Prompt:
+
+"Write a 500-word essay discussing the effects of plastic pollution on marine life, focusing on its impact on species diversity and the food chain. Provide two real-world examples and suggest one potential solution."
+
+Why the Improved Prompt Is More Effective:
+
+Clarity: The vague prompt does not specify what aspect of environmental issues to focus on, leaving the writer unsure where to start. The improved prompt clearly defines the topic  and its specific context.
+
+Specificity: By mentioning "species diversity," "the food chain," and "two real-world examples," the improved prompt provides concrete guidelines that help narrow down the scope, making it easier to deliver relevant and targeted information.
+
+Conciseness: The improved prompt avoids unnecessary words while still covering all the important details, allowing the writer to focus directly on the task without confusion.
